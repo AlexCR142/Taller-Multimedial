@@ -19,7 +19,7 @@ Ejercicio 1 Semana 1:
 <meta charset="UTF-8">
 <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
 
-<title>Multimedial</title>
+<title>Taller Multimedial</title>
 <!-- Título de la página que aparece en la pestaña del navegador -->
 
 <style>
@@ -28,7 +28,7 @@ Ejercicio 1 Semana 1:
 body{
 /* "body" se refiere a todo el contenido visible de la página */
 
-  background-color: black;
+  background-color: purple;
   /* Define que el fondo de toda la página sea blanco */
 
   color: white;
