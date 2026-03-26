@@ -4,7 +4,7 @@
 
 #### Cultura web y arte digital
 
-Ejercicio 1 Semana 1:
+###Ejercicio 1 Semana 1:
 
 ```
 <!DOCTYPE html>
@@ -77,3 +77,9 @@ Taller Multimedial
 <!-- Fin del documento HTML -->
 
 ```
+### Semana 2
+
+´´´
+
+
+´´´
