@@ -4,7 +4,6 @@
 
 #### Cultura web y arte digital
 
-file:///Users/alumno/Desktop/alex%20correa/Taller-Multimedial-main/w/index.html
 
 ### Ejercicio 1 Semana 1:
 
