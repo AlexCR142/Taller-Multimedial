@@ -6,7 +6,7 @@
 
 file:///Users/alumno/Desktop/alex%20correa/Taller-Multimedial-main/w/index.html
 
-###Ejercicio 1 Semana 1:
+### Ejercicio 1 Semana 1:
 
 ```
 <!DOCTYPE html>
@@ -471,4 +471,28 @@ Obras
 
 ```
 
+Contacto (sin bloques por ahora)
 
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contacto</title>
+</head>
+
+<body>
+
+<h1>Contacto</h1>
+
+<img src="contacto.jpg" alt="Imagen de contacto" width="300">
+
+<p>Mail: correaalexander412@gmail.com</p>
+<p>Instagram: @alex.corami</p>
+
+<a href="index.html">Inicio</a><br>
+<a href="obra.html">Obra</a>
+
+</body>
+</html>
+
+```
