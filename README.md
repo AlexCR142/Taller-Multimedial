@@ -4,6 +4,8 @@
 
 #### Cultura web y arte digital
 
+file:///Users/alumno/Desktop/alex%20correa/Taller-Multimedial-main/w/index.html
+
 ###Ejercicio 1 Semana 1:
 
 ```
@@ -276,6 +278,197 @@ body{
 ```
 ### Semana 4
 
+Bloques
 
+Index:
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+
+    <style>
+        /* Estilo general del cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #484b7c;
+            margin: 0;
+        }
+
+        /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            margin: auto;
+        }
+
+        /* Sección o bloque */
+        .bloque {
+            background-color: rgb(215, 225, 255);
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        /* Imagen */
+        .bloque img {
+            width: 100%;
+            height: auto;
+        }
+
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+            
+        }
+
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Contenedor principal -->
+    <div class="contenedor">
+
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+            <h1>Alex CorRami</h2>
+
+<img src="img/img1.jpeg" alt="Tortuga">
+
+
+
+            
+            
+        </div>
+
+        <!-- BLOQUE 2 -->
+        <div class="bloque">
+            
+          <a href="obra.html">Obra</a><br> 
+            
+        </div>
+
+        <!-- BLOQUE 2 -->
+        <div class="bloque">
+            
+         <a href="contacto.html">Contacto</a>  
+            
+        </div>
+        </div>
+
+</body>
+</html>
+```
+
+Obras
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Obras</title>
+
+    <style>
+        /* Estilo general del cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #484b7c;
+            margin: 0;
+        }
+
+        /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            margin: auto;
+        }
+
+        /* Sección o bloque */
+        .bloque {
+            background-color: rgb(215, 225, 255);
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        /* Imagen */
+        .bloque img {
+            width: 100%;
+            height: auto;
+        }
+
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+        }
+
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Contenedor principal -->
+    <div class="contenedor">
+
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+            <h1>Mi obra</h1>
+
+
+
+<a href="index.html">Inicio</a><br>
+<a href="contacto.html">Contacto</a>
+
+            
+            </p>
+        </div>
+
+        <!-- BLOQUE 2 -->
+        <div class="bloque">
+            <img src="img/img1.jpeg" alt="Grabado Mantis">
+            <h2>Título 1</h2>
+            <p>
+                Este es un texto de ejemplo. Aquí puedes escribir contenido descriptivo,
+                reflexivo o informativo sobre la imagen.
+            </p>
+        </div>
+
+        <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/img2.jpeg" alt="Mantis">
+            <h2>Título 2</h2>
+            <p>
+                Otro texto que acompaña la imagen. Puedes trabajar narrativa,
+                análisis visual o cualquier tipo de contenido.
+            </p>
+        </div>
+
+        <!-- BLOQUE 4 -->
+        <div class="bloque">
+            <img src="img/img4.jpeg" alt="espejos">
+            <h2>Título 3</h2>
+            <p>
+                Este es un tercer bloque. Puedes repetir esta estructura
+                tantas veces como quieras.
+            </p>
+        </div>
+         
+
+    </div>
+
+</body>
+</html>
+
+```
 
 
