@@ -7,9 +7,11 @@
     <style>
         /* Estilo general del cuerpo */
         body {
-            font-family: Arial, sans-serif;
+            
+            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
             background-color: #484b7c;
             margin: 0;
+              
         }
 
         /* Contenedor principal */
@@ -41,7 +43,21 @@
         /* Texto */
         .bloque p {
             line-height: 1.5;
+        
         }
+.boton { /* Define una clase llamada "boton" */
+  background-color: rgb(215, 225, 255); /* Color de fondo del botón */
+  color: white; /* Color del texto */
+  padding: 15px; /* Espacio interno (arriba, abajo, izquierda, derecha) */
+  width: 150px; /* Ancho fijo del botón */
+  text-align: center; /* Centra el texto horizontalmente */
+  transition: 0.3s; /* Hace que los cambios (como color) sean suaves en 0.3 segundos */
+}
+
+.boton:hover { /* Se activa cuando el mouse pasa sobre el elemento */
+  background-color: rgb(150, 145, 246); /* Cambia el color de fondo al pasar el mouse */
+}
+
     </style>
 </head>
 
@@ -63,14 +79,15 @@
         </div>
 
         <!-- BLOQUE 2 -->
-        <div class="bloque">
+        <div class="boton">
             
           <a href="obra.html">Obra</a><br> 
             
         </div>
+        <br>  <br>
 
         <!-- BLOQUE 2 -->
-        <div class="bloque">
+        <div class="boton">
             
          <a href="contacto.html">Contacto</a>  
             
