@@ -493,5 +493,447 @@ Contacto (sin bloques por ahora)
 
 </body>
 </html>
+```
+
+### Semana 5
+
+Barra de navegacion 
+
+Index 
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+
+    <style>
+        /* Estilo general del cuerpo */
+        body {
+            
+            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+            background-color: #292a47;
+            margin: 0;
+              
+        }
+        .navbar {
+        background-color: #18132d;
+         overflow: hidden;
+         border-radius: 10px;
+        }
+
+        .navbar a {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+        }
+        .navbar a:hover {
+        background-color: black;
+        }
+
+        /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            margin: auto;
+        }
+
+        /* Sección o bloque */
+        .bloque {
+            background-color: rgb(215, 225, 255);
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        /* Imagen */
+        .bloque img {
+            width: 100%;
+            height: auto;
+        }
+
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+            
+        }
+
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        
+        }
+.boton { /* Define una clase llamada "boton" */
+  background-color: rgb(215, 225, 255); /* Color de fondo del botón */
+  color: white; /* Color del texto */
+  padding: 15px; /* Espacio interno (arriba, abajo, izquierda, derecha) */
+  width: 150px; /* Ancho fijo del botón */
+  text-align: center; /* Centra el texto horizontalmente */
+  transition: 0.3s; /* Hace que los cambios (como color) sean suaves en 0.3 segundos */
+}
+
+.boton:hover { /* Se activa cuando el mouse pasa sobre el elemento */
+  background-color: rgb(150, 145, 246); /* Cambia el color de fondo al pasar el mouse */
+}
+
+    </style>
+</head>
+
+<body>
+
+    <!-- Contenedor principal -->
+    <div class="contenedor">
+
+        <div class="navbar">
+  <a href="index.html">Inicio</a>
+  <a href="obra.html">Proyectos</a>
+  <a href="contacto.html">Contacto</a>
+</div> 
+
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+            <h1>Alex CorRami</h2>
+
+<img src="img/autorretrato1.jpeg" alt="autorretrato">
+
+
+
+            
+            
+        </div>
+
+        <!-- BLOQUE 2 
+        <div class="boton">
+            
+          <a href="obra.html">Obra</a><br> 
+            
+        </div>
+        <br>  <br>
+
+        BLOQUE 2 --
+        <div class="boton">
+            
+         <a href="contacto.html">Contacto</a>  
+            
+        </div> -->
+        </div>
+
+</body>
+</html>
+```
+
+Obras
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Proyectos</title>
+
+    <style>
+        /* Estilo general del cuerpo */
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+            background-color: #292a47;
+            margin: 0;
+        }
+.navbar {
+  background-color: #18132d;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background-color: black;
+}
+        
+
+        /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            margin: auto;
+        }
+
+        /* Sección o bloque */
+        .bloque {
+            background-color: rgb(215, 225, 255);
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+
+        /* Imagen */
+        .bloque img {
+            width: 100%;
+            height: auto;
+        }
+
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+        }
+
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        }
+
+        .boton { /* Define una clase llamada "boton" */
+  background-color: rgb(215, 225, 255); /* Color de fondo del botón */
+  color: white; /* Color del texto */
+  padding: 15px; /* Espacio interno (arriba, abajo, izquierda, derecha) */
+  width: 150px; /* Ancho fijo del botón */
+  text-align: center; /* Centra el texto horizontalmente */
+  transition: 0.3s; /* Hace que los cambios (como color) sean suaves en 0.3 segundos */
+}
+
+.boton:hover { /* Se activa cuando el mouse pasa sobre el elemento */
+  background-color: rgb(150, 145, 246); /* Cambia el color de fondo al pasar el mouse */
+}
+    </style>
+</head>
+
+<body>
+
+    <!-- Contenedor principal -->
+    <div class="contenedor">
+
+        <div class="navbar">
+  <a href="index.html">Inicio</a>
+  <a href="obra.html">Proyectos</a>
+  <a href="contacto.html">Contacto</a>
+</div> 
+
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+            <h1>Proyectos</h1>
+
+        </div>
+
+         <!-- BLOQUE 2 -->
+        <div class="bloque">
+            <img src="img/autorretrato1.jpeg" alt="autorretrato">
+            <h2>Autorretrato en honor a un espejo roto</h2>
+            <p>  Pastel graso sobre madera, 50 x 50cm, 2026</p>
+               
+                
+        </div>
+
+        <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/Espejos.jpg" alt="Espejos">
+            <h2>A Traves del Espejo</h2>
+            <p>  Mosaico de espejos, 90 x 70 x 80cm, 2025</p>
+               
+                
+        </div>
+
+ <!-- BLOQUE 4 -->
+        <div class="bloque">
+            <img src="img/Orbita.jpeg" alt="Orbita">
+            <h2>Orbita 1060</h2>
+            <p>  Metal, 105 x 135 x 70cm, 2025</p>
+               
+                
+        </div>
+
+  <!-- BLOQUE 5 -->
+        <div class="bloque">
+            <img src="img/Mantis2.jpg" alt="Mantis">
+            <h2>Mantis con Colibri</h2>
+            <p>
+                Xilografia, 37,5 x 53,5cm, 2025
+            </p>
+        </div>
+
+         <!-- BLOQUE 5 -->
+        <div class="bloque">
+            <img src="img/Tigre.png" alt="Tigre">
+            <h2>Venganza</h2>
+            <p>
+                Pastel graso sobre papel, 100 x 70cm, 2025
+            </p>
+        </div>
+
+        <!-- BLOQUE 6 -->
+        <div class="bloque">
+            <img src="img/img1.jpeg" alt="Tortuga">
+            <h2>Tortuga</h2>
+            <p>
+                Tapas de botellas, 80 x 65 x 20cm, 2023
+            </p>
+        </div>
+
+      
+
+
+       <!--  <div class="boton">
+            
+          <a href="index.html">Inicio</a><br> 
+            
+        </div>
+        <br>  <br>
+
+         BOTON 
+        <div class="boton">
+            
+         <a href="contacto.html">Contacto</a>  
+            
+        </div>
+         <br>  <br> -->
+
+    </div>
+
+</body>
+</html>
+```
+
+Contacto
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Contacto</title>
+
+     <style>
+        /* Estilo general del cuerpo */
+        body {
+            
+            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+            background-color: #292a47;
+            margin: 0;
+         display: flex; /* Activa flexbox */
+            justify-content: center; /* Centra horizontalmente */
+         align-items: center; /* Centra verticalmente */
+         height: 100vh; /* Altura total de la pantalla (viewport height) */
+}
+
+.navbar {
+  background-color: #18132d;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background-color: black;
+}
+
+
+       /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            margin: auto;
+            margin-top: 20px;
+        }
+
+        /* Sección o bloque */
+        .bloque {
+            background-color: rgb(215, 225, 255);
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
+.caja { /* Elemento que será centrado */
+  background-color: rgb(215, 225, 255); /* Fondo negro */
+  color: #292a47; /* Texto blanco */
+  padding: 30px; /* Espacio interno */
+  border-radius: 10px;
+}
+        /* Imagen */
+        .bloque img {
+            width: 100%;
+            height: auto;
+        }
+
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+            
+        }
+
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        
+        }
+.boton { /* Define una clase llamada "boton" */
+  background-color: rgb(215, 225, 255); /* Color de fondo del botón */
+  color: white; /* Color del texto */
+  padding: 15px; /* Espacio interno (arriba, abajo, izquierda, derecha) */
+  width: 150px; /* Ancho fijo del botón */
+  text-align: center; /* Centra el texto horizontalmente */
+  transition: 0.3s; /* Hace que los cambios (como color) sean suaves en 0.3 segundos */
+}
+
+.boton:hover { /* Se activa cuando el mouse pasa sobre el elemento */
+  background-color: rgb(150, 145, 246); /* Cambia el color de fondo al pasar el mouse */
+}
+
+    </style>
+</head>
+
+<body>
+
+   
+    <!-- Contenedor principal -->
+    <div class="contenedor">
+        
+<div class="navbar">
+  <a href="index.html">Inicio</a>
+  <a href="obra.html">Proyectos</a>
+  <a href="contacto.html">Contacto</a>
+</div> 
+<br>
+
+        <!-- BLOQUE 1 -->
+        <div class="caja">
+            <h1>Contacto</h2>
+
+<p>Mail: correaalexander412@gmail.com</p>
+<p>Instagram: @alex.corami</p>
+
+</div>
+            
+            
+      <br> <br>  
+
+        
+       <!--  <div class="boton">
+            
+          <a href="obra.html">Obra</a><br> 
+            
+        </div>
+        <br>  <br>-->
+
+        <!-- BLOQUE 2 
+        <div class="boton">
+            
+         <a href="index.html">Inicio</a>  
+            
+        </div> -->
+        </div>
+
+</body>
+</html>
 
 ```
