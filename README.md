@@ -4,6 +4,12 @@
 
 #### Cultura web y arte digital
 
+### Resultado pagina web: (https://alexcr142.github.io/Taller-Multimedial/w/index.html)
+
+### <span style="color: purple;">Ejercicios Touch Designer</span>
+
+[Link Ejercicios](https://drive.google.com/drive/folders/1Bg-iiGuihJrZz7g_ye5__2IPZyQ5RqUV?usp=drive_link)
+
 
 ### <span style="color: purple;">Ejercicio 1 Semana 1:</span>
 
@@ -937,8 +943,3 @@ Contacto
 </html>
 
 ```
-### Resultado pagina web: (https://alexcr142.github.io/Taller-Multimedial/w/index.html)
-
-### <span style="color: purple;">Ejercicios Touch Designer</span>
-
-[Link Ejercicios](https://drive.google.com/drive/folders/1Bg-iiGuihJrZz7g_ye5__2IPZyQ5RqUV?usp=drive_link)
