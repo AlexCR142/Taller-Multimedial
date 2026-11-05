@@ -5,7 +5,7 @@
 #### Cultura web y arte digital
 
 
-### Ejercicio 1 Semana 1:
+### <span style="color: purple;">Ejercicio 1 Semana 1:</span>
 
 ```
 <!DOCTYPE html>
@@ -78,7 +78,7 @@ Taller Multimedial
 <!-- Fin del documento HTML -->
 
 ```
-### Semana 2
+### <span style="color: purple;">Semana 2</span>
 
 Visual Studio Codigo 
 
@@ -199,7 +199,7 @@ Pagina 2
 
 ```
 
-### Semana 3
+### <span style="color: purple;">Semana 3</span>
 
 Llamar imagen desde archivo
 
@@ -275,7 +275,7 @@ body{
 </html>
 <!-- Fin del documento HTML -->
 ```
-### Semana 4
+### <span style="color: purple;">Semana 4</span>
 
 Bloques
 
@@ -495,7 +495,7 @@ Contacto (sin bloques por ahora)
 </html>
 ```
 
-### Semana 5
+### <span style="color: purple;">Semana 5</span>
 
 Barra de navegacion 
 
@@ -937,3 +937,7 @@ Contacto
 </html>
 
 ```
+### Resultado pagina web: ()
+### <span style="color: purple;">Ejercicios Touch Designer</span>
+
+[Link Ejercicios](https://drive.google.com/drive/folders/1Bg-iiGuihJrZz7g_ye5__2IPZyQ5RqUV?usp=drive_link)
