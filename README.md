@@ -946,4 +946,10 @@ Contacto
 
 ### Touch Designer 
 
+lsystem 
+
+mapping 
+
+Proyecto final
+
 <img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/td/Captura%20de%20pantalla%202026-11-12%20084420.png"/>
