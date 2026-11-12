@@ -966,3 +966,6 @@ Como David Abram describe a lo largo de su escritura, es importante reconocernos
 
 
 <img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/td/Captura%20de%20pantalla%202026-11-12%20084420.png"/>
+
+<img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/Captura%20de%20pantalla%202026-11-12%20100455.png"/>
+ Boceto de montaje digital (Dibujo digital) Autoría propia, 2026
