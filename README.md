@@ -944,11 +944,16 @@ Contacto
 
 ```
 
-### Touch Designer 
+### Ejercicos Touch Designer 
 
 lsystem 
 
-mapping 
+<img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/td/Captura%20de%20pantalla%202026-11-12%20094715.png"/>
+
+Mapping 
+
+<img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/td/Captura%20de%20pantalla%202026-11-12%20094601.png"/>
+
 
 Proyecto final
 
