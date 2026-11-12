@@ -955,7 +955,7 @@ Mapping
 <img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/td/Captura%20de%20pantalla%202026-11-12%20094601.png"/>
 
 
-##Proyecto final
+## Proyecto final
 
 Resumen de la obra: 
 Instalación de video sobre escena instalada en la sala que asemeja un humedal, con figuras de cartón y masking tape que representen fauna y flora de un humedal. En la pared se proyectan videos de humedales con colores sobresaturados y sonidos ambientales. 
