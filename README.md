@@ -955,6 +955,14 @@ Mapping
 <img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/td/Captura%20de%20pantalla%202026-11-12%20094601.png"/>
 
 
-Proyecto final
+##Proyecto final
+
+Resumen de la obra: 
+Instalación de video sobre escena instalada en la sala que asemeja un humedal, con figuras de cartón y masking tape que representen fauna y flora de un humedal. En la pared se proyectan videos de humedales con colores sobresaturados y sonidos ambientales. 
+
+Propuesta conceptual: 
+Esta obra surge en respuesta a dichos del presidente Kast sobre los humedales, donde él le quita importancia a estos, el objetivo del proyecto es acercar al espectador a la naturaleza a través de un ambiente inmersivo que los haga sentirse parte de este. 
+Como David Abram describe a lo largo de su escritura, es importante reconocernos a nosotros mismos como animales y sentirnos parte de la naturaleza.La forma en la que describe la naturaleza y estar en ella está centrada en los sentidos además de usar un lenguaje que logra transmitir ese sentido de pertenencia. “Esos animales, plantas y accidentes geográficos son nuestros verdaderos vecinos, son con quienes debemos practicar comunidad, si es que queremos vivir bien en cualquier lugar.” (Abram et al., 2011) Se ha perdido nuestra habilidad de sentir y apreciar la naturaleza, lo cual hace más difícil movilizar a las personas, si no te sientes parte de la naturaleza ¿por qué te importaría protegerla?
+
 
 <img src="https://github.com/AlexCR142/Taller-Multimedial/blob/main/td/Captura%20de%20pantalla%202026-11-12%20084420.png"/>
